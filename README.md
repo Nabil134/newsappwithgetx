@@ -1,8 +1,3 @@
-<img width="576" height="1280" alt="WhatsApp Image 2026-07-30 at 08 12 21" src="https://github.com/user-attachments/assets/01091067-4ca2-4627-9dc5-aed2f12fbb15" />
-# news_app![Uploading WhatsApp Image 2026-07-30 at 08.15.51.jpeg…]()
-<img width="576" height="1280" alt="WhatsApp Image 2026-07-30 at 08 12 21" src="https://github.com/user-attachments/assets/81d8a026-645f-4cd0-a27f-42d4eed1be92" />
-
-
 A new Flutter project.
 
 ## Getting Started
